@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CollectedImages</folder>
+	<filename>C.5c536e95-544c-11ee-9f9e-e4b97a293baa.jpg</filename>
+	<path>C:\Users\maria\OneDrive\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\CollectedImages\C.5c536e95-544c-11ee-9f9e-e4b97a293baa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>130</ymin>
+			<xmax>245</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
